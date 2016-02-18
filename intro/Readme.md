@@ -1,3 +1,5 @@
+#Questions
+
 > What are the three most essential skills that a beginner programmer needs to know?
 
 reading and writing, attention to detail, and spotting differences
@@ -18,7 +20,7 @@ fixing problems.
 
 We need to train our hands, brain and mind in how to read, write and see
 code.
-Creating muscle memory through repetitive typing is essentisl to the learning process 
+Creating muscle memory through repetitive typing is essential to the learning process 
 and using copy and paste as a shortcut defeats the purpose of the learning process.
 
 > Why is Practice and Persistence important?
@@ -26,4 +28,4 @@ and using copy and paste as a shortcut defeats the purpose of the learning proce
 Practice makes perfect or at least competent for now.  Practicing involves repetition
 that is essential to learning new skills. 
 Persistence is not giving up and fighting through frustration and obstacles 
-that we will undoubtedly encounter.  We cannot give up,  we must be
+that we will undoubtedly encounter.  We cannot give up,  we must be persistent.
