@@ -5,15 +5,15 @@ ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]```
 
 #Links
 
-Arrays info: http://ruby-doc.org/core-2.2.0/Array.html
+Arrays info: http://ruby-doc.org/core-2.2.4/Array.html
 
-Hash info: http://docs.ruby-lang.org/en/2.0.0/Hash.html
+Hash info: http://ruby-doc.org/core-2.2.4/Hash.html
 
-Chronic info: https://rubygems.org/gems/chronic/versions/0.10.2
+Chronic info: http://chronic.rubyforge.org/
 
 Ruby loops: https://rubymonk.com/learning/books/1-ruby-primer/chapters/8-control-structures/lessons/44-loops-in-ruby
 
-Ruby methods: http://ruby-doc.org/core-2.2.0/Method.html
+Ruby methods: http://ruby-doc.org/core-2.2.4/Method.html
 
 #Tasks:
 
