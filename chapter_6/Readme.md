@@ -22,3 +22,8 @@
    unless there is an embeded variable value in the string.  Double quotes allow 
    the interpolated value to be assesed.  If the interpolated strings had single quotes
    the embeded value would not be evaluated.
+
+##Rubocop offenses:
+
+offense: Prefer single quotes.
+solution: Replaced double quotes with single quotes where possible.

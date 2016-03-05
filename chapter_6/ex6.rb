@@ -5,7 +5,7 @@ types_of_people = 10
 # variable embedded in a string
 x = "There are #{types_of_people} types of people."
 # defines a variable for a string of the same name
-binary = "binary"
+binary = 'binary'
 # defines a variable for a string of the same name
 do_not = "don't"
 # defines a variable for a string with imbeded variables
@@ -25,8 +25,8 @@ joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 # outputs a string with a variable value appended
 puts joke_evaluation
 # defines a variable for a string
-w = "This is the left side of..."
+w = 'This is the left side of...'
 # defines a variable for a string
-e = "a string with a right side."
+e = 'a string with a right side.'
 # outputs the concatenated values of two variables
 puts w + e
