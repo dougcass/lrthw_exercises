@@ -4,11 +4,11 @@
   There are four places. Are you sure there are only four places?
   How do you know? Maybe I like lying.
   
-  Line 5, Line 11
+  Line 18, Line 20, Line 24
 
 > 3) Was he lying?
   
-  Yes.  Lines 2 and 10 put embed a number in to a string, not a string.
+  Yes.  Line 6 embeds a number in to a string, not a string.
 
 > 4) Explain why adding the two strings w and e with + makes a longer string.
 
